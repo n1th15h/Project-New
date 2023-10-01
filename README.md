@@ -1,2 +1,2 @@
-# Project-New
-This is sem project repo
+# Projects-Statistics
+This repo includes projects /research conducted during my M.sc Statistics academics.
